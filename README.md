@@ -1,2 +1,2 @@
 # ShariGame.github.io
-THE GAME.
+YOU HAVE LOST THE GAME.
